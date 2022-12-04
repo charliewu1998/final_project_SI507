@@ -8,5 +8,6 @@ Then, the user will need to answer four questions:
 1. What is your ideal price? 
 2. What category of the restaurant you searching for? 
 3. What is the ideal distance from the restaurant to your location? 
+
 After the user input all answers then the system will automatically generate a list of restaurants that fulfill the users’ filter options. 
 The user is then given an option to input a number to open the URL of corresponding restaurant. The user can enter ‘exit’ to quit the program. 
