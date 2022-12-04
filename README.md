@@ -1,5 +1,6 @@
 Data Source:
 Yelp Fusion API: https://api.yelp.com/v3/businesses/search
+
 Unique Key: RzCec0WbteIW21wIPqI7boaOgKzHtA8O1AOgFYOxKr25e25HIKArnYq8KIQ6PDIgkZ31YsTpxwoS11JC5w-rbK2EReJhLo__QbOIuZRBwKAKo5_pT93Hf0tG_7CFY3Yx
 
 User Interaction:
